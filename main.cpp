@@ -20,6 +20,7 @@ int main(int argc, char *argv[])
     cout << s1.toStdString() << endl;
     //QString s = cin.readLine();
     //cout << "Your name is: " << s;
-    cout<<"Hello World";
+    cout<<"Hello World"<<endl;
+    printf("Hello World");
     return a.exec();
 }
