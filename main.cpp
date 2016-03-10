@@ -16,7 +16,7 @@ using namespace std;
 int main(int argc, char *argv[])
 {
     QCoreApplication a(argc, argv);
-    QString s1 = "Enter your name";
+    QString s1 = "Enter your name: ";
     cout << s1.toStdString() << endl;
     //QString s = cin.readLine();
     //cout << "Your name is: " << s;
